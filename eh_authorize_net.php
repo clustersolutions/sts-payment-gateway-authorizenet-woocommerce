@@ -1,7 +1,7 @@
 <?php
 
 /*
-  Plugin Name: Authorize.Net Payment Gateway for WooCommerce (Basic)
+  Plugin Name: Share the Stokes Authorize.Net Payment Gateway for WooCommerce
   Plugin URI: https://clustersolutions.net/may-be-i-ll-hv-a-real-uri-one-day
   Description: Pay using Credit Cards.
   Version: 1.2.9
